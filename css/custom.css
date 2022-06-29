@@ -272,3 +272,6 @@ html {
 #contato ul li img {
     max-height: 20px;
 }
+html {
+    scroll-behavior: smooth;
+   }
